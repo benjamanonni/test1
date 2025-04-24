@@ -1,4 +1,4 @@
-public class Articulo {
+public class Articulo {//hola 
     private String nombre;
     private String marca;
     private double precio;
